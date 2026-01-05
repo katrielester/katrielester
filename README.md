@@ -1,7 +1,10 @@
 # Hi, I’m Katriel Ester Amanda 👋
 **Data Scientist | Data Analyst | MSc Computer Science (Data Science & Technology)**  
 
-I translate messy, real-world data into actionable insights through clear analysis, modeling, and practical prototypes. I care about human-centered technology and building decision-support tools that are rigorous, understandable, and useful.
+- Email: katrielesteramanda@gmail.com
+- [LinkedIn](https://id.linkedin.com/in/katrielester)
+
+I translate messy, real-world data into actionable insights through clear analysis, modeling, and practical prototypes. I care about human-centered technology and building decision-support tools that are rigorous, easily understandable, and above all, useful.
 
 - Interests: product & business decision support, evaluation, applied ML, data visualization, LLM prototyping
 - Open to: Data Scientist / ML / Analytics roles
@@ -58,7 +61,3 @@ Paper: https://resolver.tudelft.nl/uuid:cd50217a-3eda-44e4-824c-090b2ecca45d
 **Tech**: D3.js  
 - Built an interactive dashboard to explore tourism trends across regions and seasons  
 - Designed filtering + comparison views for quick pattern discovery by non-technical users
-
-## 📫 Contact
-- Email: katrielesteramanda@gmail.com
-- [LinkedIn](https://id.linkedin.com/in/katrielester)
