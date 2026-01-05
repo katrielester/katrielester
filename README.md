@@ -31,6 +31,7 @@ I translate messy, real-world data into actionable insights through clear analys
 - Result: **+26.6% increase in users’ goal attainment** in the study
 
 Demo: https://smart-goalie.onrender.com/?PROLIFIC_PID=testuser&g=1
+
 Paper: https://resolver.tudelft.nl/uuid:cd50217a-3eda-44e4-824c-090b2ecca45d
 
 ---
