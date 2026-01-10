@@ -38,7 +38,7 @@ Links:
 
 ---
 
-### 2) [Telco Churn Prediction (Purwadhika Final Project)](https://github.com/katrielester/Telco-Customer-Churn)
+### 2) [Telco Churn Prediction](https://github.com/katrielester/Telco-Customer-Churn)
 **Tech**: Python, XGBoost, SMOTE, Streamlit, Tableau  
 - End-to-end ML pipeline to predict churn and support retention decisions  
 - Benchmarked multiple models; selected **XGBoost + SMOTE**, optimized for recall using **F2-score**  
